@@ -8,3 +8,4 @@
 6. **Cybersecurity Analyst** (120 h) - CISCO Networking Academy
 7. **Ciberseguridad para empresas del comercio** (32 h) - INCIBE Instituto Nacional de Ciberseguridad
 8. **Administración electrónica y certificados digitales** (80 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
+9. **Protección y seguridad informática en la empresa** (80 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB

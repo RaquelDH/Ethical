@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Cybersecurity and Ethical Hacking (más de 600 horas)
+### 2022-2024: Formación en Cybersecurity and Ethical Hacking (más de 700 horas)
 
 1. **Implantación de un sistema ISO 27001** (80 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 2. **Normativa RGPD para empresas y negocios online** (90 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
